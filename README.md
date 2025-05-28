@@ -1,2 +1,2 @@
-# fits.github.io
-A Julia package for the Flexible Image Transport System (FITS) file format
+# fitsfiles.github.io
+A Julia implementation of the Flexible Image Transport System (FITS) file format.
